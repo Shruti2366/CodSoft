@@ -1,2 +1,2 @@
-# CodSoft
+# CodSoft_landing_page_project
 CodSoft
